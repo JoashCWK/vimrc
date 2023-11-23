@@ -1,0 +1,2 @@
+build:
+	cp .vimrc ~/.vimrc
